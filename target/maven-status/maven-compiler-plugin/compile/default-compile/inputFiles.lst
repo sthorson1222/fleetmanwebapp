@@ -1,0 +1,12 @@
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/controllers/VehicleController.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/services/RemotePositionMicroserviceCalls.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/data/VehicleRepository.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/services/RemoteMicroserviceStubImpl.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/TomcatWARApplication.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/controllers/Position.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/services/PositionTrackingExternalService.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/WebSocketConfig.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/CloudConfiguration.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/Startup.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/FleetmanApplication.java
+/Users/seanthorson/Downloads/Chapter 7/fleetman-webapp/src/main/java/com/virtualpairprogrammers/domain/Vehicle.java
